@@ -4,6 +4,11 @@ JAVA SOLUTION TO THE  Robot PROBLEM
 The accompanying code and programs are a solution to the  Robot problem
 described below.
 
+INSTALLATION AND TESTING
+------------------------
+Need generate jar file to Robot.java and run at comman prompt by supply the input according to Input.txt 
+java -jar Robot.jar <input>
+
 THE CODE
 --------
 The code is contained in single file called Robot.java and is described in that file's
